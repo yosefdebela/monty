@@ -1,5 +1,5 @@
-#ifndef __iM_header__
-#define __iM_header__
+#ifndef __MONTY_H__
+#define __MONTY_H__
 
 #include <stdio.h>
 #include <string.h>
